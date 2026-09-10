@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 2 |
+| 3 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [strings](#strings) (1)
 
 ---
@@ -21,6 +21,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
 
