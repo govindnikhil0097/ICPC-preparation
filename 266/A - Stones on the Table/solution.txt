@@ -1,0 +1,13 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    removals = 0
+    colors = l[1]
+    for i in range(1, len(colors)):
+        if colors[i] == colors[i-1]:
+            removals += 1
+    print(removals)
+if __name__ == "__main__":
+    func()
