@@ -1,0 +1,15 @@
+x = input()
+lc = 0
+uc = 0
+for i in x:
+    if i.isupper():
+        uc += 1
+    else:
+        lc += 1
+ 
+if lc == uc:
+    print(x.lower())
+elif lc > uc:
+    print(x.lower())
+else:
+    print(x.upper())
