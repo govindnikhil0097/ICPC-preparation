@@ -1,0 +1,16 @@
+import sys
+import math
+def func():
+    l = sys.stdin.read().split()
+    lw = int(l[0])
+    bw = int(l[1])
+    years = 0
+    while lw <= bw:
+        lw *= 3
+        bw *= 2
+        years += 1
+    print(years)
+ 
+ 
+if __name__ == "__main__":
+    func()
