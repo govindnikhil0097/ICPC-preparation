@@ -1,0 +1,16 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    people = int(l[0])
+    gateHeight = int(l[1])
+    personHeight = l[2:]
+    totalWidth = 0
+    for i in personHeight:
+        if int(i) <= gateHeight:
+            totalWidth += 1
+        elif int(i) > gateHeight:
+            totalWidth += 2
+    print(totalWidth)
+ 
+if __name__ == "__main__":
+    func()
