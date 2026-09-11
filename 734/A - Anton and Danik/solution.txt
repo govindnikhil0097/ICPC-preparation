@@ -1,0 +1,23 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    alphaNo = int(l[0])
+    alpha = l[1]
+    countA = 0
+    countB = 0
+    for i in alpha:
+        if i == 'A':
+            countA += 1
+        else:
+            countB += 1
+ 
+    if countA > countB:
+        print("Anton")
+    elif countB > countA:
+        print("Danik")
+    else:
+        print("Friendship")
+ 
+ 
+if __name__ == "__main__":
+    func()
