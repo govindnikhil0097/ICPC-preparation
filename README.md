@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 4 |
+| 7 | 4 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [implementation](#implementation) (6)
-- [math](#math) (1)
+- [math](#math) (2)
 - [strings](#strings) (2)
 
 ---
@@ -41,6 +41,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 
 ### strings
 
