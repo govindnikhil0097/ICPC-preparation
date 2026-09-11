@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 4 |
+| 10 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (2)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 
 ---
 
@@ -29,6 +29,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/41/A%20-%20Translation/solution.txt) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/59/A%20-%20Word/solution.txt) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.txt) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.txt) |
@@ -49,6 +50,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/41/A%20-%20Translation/solution.txt) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/59/A%20-%20Word/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
