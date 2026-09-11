@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 4 |
+| 9 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [math](#math) (2)
 - [strings](#strings) (3)
 
@@ -30,6 +30,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/59/A%20-%20Word/solution.txt) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.txt) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
