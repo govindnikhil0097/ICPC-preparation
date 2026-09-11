@@ -1,0 +1,12 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    word = l[0]
+    rev = l[1]
+    if word[::-1] == rev:
+        print("YES")
+    else:
+        print("NO")
+ 
+if __name__ == "__main__":
+    func()
